@@ -6,7 +6,7 @@
 
         <title>Realtor</title>
         @vite('resources/js/app.js')
-        @inertaiHead
+        @inertiaHead
     </head>
     <body>
         @inertia
